@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="Admin">
+    <Username>admin</Username>
+    <HashedPassword>jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=</HashedPassword>
+  </User>
+  <User>
+    <Username>Pepa</Username>
+    <HashedPassword>plrwrcXDmVHztpMpJHXaTZg3m6kigS3m7iFprhC4tZM=</HashedPassword>
+  </User>
+  <User>
+    <Username>Tonda</Username>
+    <HashedPassword>MWOORzYHc6ylRofyX9v1PAUfKE1apMFPV2vTMuk8vWs=</HashedPassword>
+  </User>
+  <User>
+    <Username>Jirka</Username>
+    <HashedPassword>j/opvIzSSoBV2crBev2tjHz4mwCniL8fwRfl5RqlytM=</HashedPassword>
+  </User>
+</ArrayOfUser>
